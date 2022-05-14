@@ -25,7 +25,8 @@ entwickelt werden können, die
 
 ## Warum sich die Mühe machen?
 
-Im Rahmen des Kooperationsraums der Stadt Bredstedt mit den Gemeinden Breklum, Struckum und Vollstedt entstand das
+Im Rahmen des Kooperationsraums der Stadt Bredstedt mit den Gemeinden Breklum, Struckum und Vollstedt in Nordfriesland
+entstand das
 Projekt "[Smarter Marktplatz für die Mobilität der Zukunft](https://www.smarter-marktplatz-bredstedt.de/)", das sich
 mit folgenden Fragen befasst:
 

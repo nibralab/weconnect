@@ -15,21 +15,24 @@ Under den foreløbige arbejdsbetegnelse "We:Connect" skal der udvikles koordiner
 * privatpersoner
 * ...
 
-kan oplyse deres ruter, tilgængelighed, tidsplaner, kapaciteter og priser, og på hvilkes grundlag der kan udvikles apps, der
+kan oplyse deres ruter, tilgængelighed, tidsplaner, kapaciteter og priser, og på hvilkes grundlag der kan udvikles apps,
+der
 
 * muliggør regional og overregional ruteføring på tværs af udbydergrænser
 * giver mulighed for enkle reservationer
 * kan integreres i "landsby-apps".
 * ...
 
-Hvorfor gøre sig den ulejlighed?
+## Hvorfor bekymre sig?
 
-Som en del af Bredstedt bys samarbejdsområde med kommunerne Breklum, Struckum og Vollstedt blev projektet "[Smart
-Marketplace for Future Mobility](https://www.smarter-marktplatz-bredstedt.de/)" oprettet med henblik på at løse følgende spørgsmål:
+Som en del af Bredsted bys samarbejdsområde med kommunerne Breklum, Strukum og Folsted i Nordfrisland i Sydslesvig blev
+projektet "[Smart Marketplace for Future Mobility](https://www.smarter-marktplatz-bredstedt.de/)" oprettet med henblik
+på at løse følgende spørgsmål:
 
 * Hvordan vil vi komme rundt på landet om ti år?
 * Hvordan kan vi gøre mobiliteten økologisk og komfortabel på samme tid?
-* Og hvordan hænger udbuddet af fødevarer, sundhedstjenester og fritidsfaciliteter i landdistrikterne sammen med mobiliteten?
+* Og hvordan hænger udbuddet af fødevarer, sundhedstjenester og fritidsfaciliteter i landdistrikterne sammen med
+  mobiliteten?
 
 Det blev meget hurtigt klart, at vi har brug for løsninger, der i det mindste gør den anden bil overflødig i
 landdistrikterne uden at begrænse mobiliteten. For at opnå dette skal alle borgere let kunne finde ud af, hvilke

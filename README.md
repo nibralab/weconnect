@@ -25,9 +25,9 @@ can be developed that
 
 ## Why Bother?
 
-As part of the cooperation area of the town of Bredstedt with the municipalities of Breklum, Struckum and Vollstedt, the
-project "[Smart Marketplace for Future Mobility](https://www.smarter-marktplatz-bredstedt.de/)" was created to address
-the following questions:
+As part of the cooperation area of the town of Bredstedt with the municipalities of Breklum, Struckum and Vollstedt in
+North Frisia in Germany, the project "[Smart Marketplace for Future Mobility](https://www.smarter-marktplatz-bredstedt.de/)" was
+created to address the following questions:
 
 * How will we get around in the countryside in ten years' time?
 * How can we make mobility ecological and comfortable at the same time?
