@@ -15,7 +15,7 @@ Under the provisional working title "We:Connect", coordinated APIs are to be dev
 * private individuals
 * ...
 
-can provide their routes, availabilities, journey times, capacities and prices, and on the basis of which apps can be
+can provide their routes, availabilities, timetables, capacities and prices, and on the basis of which apps can be
 can be developed that
 
 * enable regional and supra-regional routing across provider boundaries
