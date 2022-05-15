@@ -2,7 +2,7 @@
 
 ![BBSV](assets/logo_transparent-2048x635.png)
 
-[Dansk Version](README-da.md) · [Deutsche Fassung](README-de.md)
+[![Dansk](assets/dk.png) Dansk Version](README-da.md) · [![Deutch](assets/de.png) Deutsche Fassung](README-de.md)
 
 ## Summary
 
