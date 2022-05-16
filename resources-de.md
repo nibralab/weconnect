@@ -8,7 +8,7 @@ Natürlich sind wir nicht die ersten, die über Mobilitätsdaten nachdenken. Hie
 Dritten zur Verfügung gestellt wurden und für dieses Projekt nützlich sein könnten.
 
 * ## IVS-Richtlinie
-  Mit der [IVS-Richtlinie](docs/CELEX 02010L0040-20180109 DE TXT.pdf) wird ein Rahmen zur Unterstützung einer
+  Mit der [IVS-Richtlinie](docs/CELEX%2002010L0040-20180109%20DE%20TXT.pdf) wird ein Rahmen zur Unterstützung einer
   koordinierten und kohärenten Einführung und Nutzung intelligenter Verkehrssysteme (IVS) in der Union, insbesondere
   über die Grenzen der Mitgliedstaaten hinweg, geschaffen, und es werden die dafür erforderlichen allgemeinen
   Bedingungen festgelegt.

@@ -9,7 +9,7 @@ might be useful for this project.
 
 * ## ITS Directive
 
-  The [ITS Directive](docs/CELEX 02010L0040-20180109 EN TXT.pdf) establishes a framework to support a coordinated and
+  The [ITS Directive](docs/CELEX%2002010L0040-20180109%20EN%20TXT.pdf) establishes a framework to support a coordinated and
   coherent deployment and use of Intelligent Transport Systems (ITS) in the Union, in particular across Member States'
   borders, and sets out the general conditions necessary for that purpose.
 

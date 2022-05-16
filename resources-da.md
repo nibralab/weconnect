@@ -9,7 +9,7 @@ kan være nyttige for dette projekt.
 
 * ## ITS-direktiv
 
-  I [ITS-direktivet](docs/CELEX 02010L0040-20180109 DA TXT.pdf) fastlægges en ramme til støtte for en koordineret og
+  I [ITS-direktivet](docs/CELEX%2002010L0040-20180109%20DA%20TXT.pdf) fastlægges en ramme til støtte for en koordineret og
   sammenhængende indførelse og anvendelse af intelligente transportsystemer (ITS) i EU, navnlig på tværs af
   medlemsstaternes grænser, og fastlægger de generelle betingelser, der er nødvendige for dette formål.
 
