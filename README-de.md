@@ -1,6 +1,4 @@
-# We:Connect
-
-![BBSV](assets/logo_transparent-2048x635.png)
+# 🇩🇪 We:Connect
 
 [🇩🇰 Dansk Version](README-da.md) · [🇬🇧 English Version](README.md)
 
@@ -45,3 +43,7 @@ zufriedenstellend löst: Es fehlen standardisierte Schnittstellen.
 
 Ziel dieses Projektes ist es, eine solche Schnittstelle – genauer: eine Sammlung von Schnittstellen – zu definieren, die
 allen Anbietern von Transportleistungen und allen App-Anbietern gleichermaßen offensteht.
+
+[> Ressourcen](resources-de.md)
+
+![BBSV](assets/logo_transparent-2048x635.png)

@@ -1,6 +1,4 @@
-# We:Connect
-
-![BBSV](assets/logo_transparent-2048x635.png)
+# 🇩🇰 We:Connect
 
 [🇩🇪 Deutsche Fassung](README-de.md) · [🇬🇧 English Version](README.md)
 
@@ -44,3 +42,7 @@ standardiserede grænseflader.
 
 Formålet med dette projekt er at definere en sådan grænseflade - eller mere præcist: en samling af grænseflader - som er
 lige åben for alle transporttjenesteudbydere og alle app-udbydere.
+
+[> Ressourcer](resources-da.md)
+
+![BBSV](assets/logo_transparent-2048x635.png)

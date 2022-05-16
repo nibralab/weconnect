@@ -1,6 +1,4 @@
-# We:Connect
-
-![BBSV](assets/logo_transparent-2048x635.png)
+# 🇬🇧 We:Connect
 
 [🇩🇰 Dansk Version](README-da.md) · [🇩🇪 Deutsche Fassung](README-de.md)
 
@@ -42,3 +40,8 @@ interfaces.
 
 The aim of this project is to define such an interface - or more precisely: a collection of interfaces - that is equally
 open to all transport service providers and all app providers.
+
+[> Resources](resources.md)
+
+
+![BBSV](assets/logo_transparent-2048x635.png)
