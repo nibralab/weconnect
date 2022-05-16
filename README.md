@@ -43,5 +43,5 @@ open to all transport service providers and all app providers.
 
 [> Resources](resources.md)
 
-
 ![BBSV](assets/logo_transparent-2048x635.png)
+![Smarte Grenzregion](assets/smarte-grenzregion.jpg)

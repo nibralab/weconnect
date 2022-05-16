@@ -46,3 +46,4 @@ lige åben for alle transporttjenesteudbydere og alle app-udbydere.
 [> Ressourcer](resources-da.md)
 
 ![BBSV](assets/logo_transparent-2048x635.png)
+![Smarte Grenzregion](assets/smarte-grenzregion.jpg)

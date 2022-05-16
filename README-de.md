@@ -47,3 +47,4 @@ allen Anbietern von Transportleistungen und allen App-Anbietern gleichermaßen o
 [> Ressourcen](resources-de.md)
 
 ![BBSV](assets/logo_transparent-2048x635.png)
+![Smarte Grenzregion](assets/smarte-grenzregion.jpg)
