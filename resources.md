@@ -79,7 +79,8 @@ might be useful for this project.
     the Ministry, from the mFUND funding programme and from open data portals of the federal states and
     municipalities.
 
-  [Flyer: Mobility data for end-to-end travel information services 🇩🇪](docs/multimodale-reisefunktionen-flyer.pdf)
+  [Flyer: Mobility data for end-to-end travel information services 🇩🇪](docs/multimodale-reisefunktionen-flyer.pdf)<br>
+  [Article: What you need to know about the renewed Passenger Transport Act 🇩🇪](https://emmett.io/article/regeln-inhalte-personenbefoerderungsgesetz-pbefg)
 
 * ## Mobility Data Specification
 

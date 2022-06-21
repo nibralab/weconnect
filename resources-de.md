@@ -81,7 +81,8 @@ Dritten zur Verfügung gestellt wurden und für dieses Projekt nützlich sein k�
     Ministeriums betrieben. Alle Daten der mCLOUD sind offen weiterverwendbar. Viele Daten stammen aus Behörden des
     Ministeriums, aus dem Förderprogramm mFUND sowie aus Open-Data-Portalen von Ländern und Kommunen.
 
-  [Flyer: Mobilitätsdaten für durchgängige Reiseinformationsdienste](docs/multimodale-reisefunktionen-flyer.pdf)
+  [Flyer: Mobilitätsdaten für durchgängige Reiseinformationsdienste](docs/multimodale-reisefunktionen-flyer.pdf)<br>
+  [Artikel: Was Sie über das erneuerte Personenbeförderungsgesetz wissen müssen](https://emmett.io/article/regeln-inhalte-personenbefoerderungsgesetz-pbefg)
 
 * ## Mobility Data Specification
 

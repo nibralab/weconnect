@@ -80,7 +80,8 @@ kan være nyttige for dette projekt.
     ministeriet. Alle data i mCLOUD kan frit genbruges. En stor del af dataene stammer fra ministeriets myndigheder,
     fra mFUND-finansieringsprogrammet og fra delstaternes og kommunernes åbne dataportaler.
 
-  [Flyer: Mobilitetsdata til end-to-end rejseinformationstjenester 🇩🇪](docs/multimodale-reisefunktionen-flyer.pdf)
+  [Flyer: Mobilitetsdata til end-to-end rejseinformationstjenester 🇩🇪](docs/multimodale-reisefunktionen-flyer.pdf)<br>
+  [Artikel: Det skal du vide om den fornyede lov om passagertransport 🇩🇪](https://emmett.io/article/regeln-inhalte-personenbefoerderungsgesetz-pbefg)
 
 * ## Mobility Data Specification
 
